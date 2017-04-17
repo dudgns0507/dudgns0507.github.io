@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: HOON
+email: hoon2585@gmail.com
+description: This blog is where I post my hobbies and things I've learnt.
 url: # the base hostname & protocol for your site
 
 
@@ -14,7 +14,7 @@ url: # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,28 +33,28 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: Park Young-Hoon
+  avatar: profile.png
+  job: "Student/Developer"
+  bio: "This blog is where I post my hobbies and things I've learnt."
+  email: hoon2585@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: dudgns0507 #username
+  facebook: dudgns0507 #username
   google:
-    plus: #username
-    analytics:
+    plus:  #username
+    analytics: UA-97458188-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dudgns0507 #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: hoon2585_ #username
   lastfm: #username
   tumblr: #username
   pinterest: #username

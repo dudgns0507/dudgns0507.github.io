@@ -66,6 +66,14 @@ table {
     }
   }
 }
+
+#side-background {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/rose.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 thead {
   border-bottom: 1px solid $table-border-color;
 }
