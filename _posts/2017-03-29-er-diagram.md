@@ -44,4 +44,4 @@ comments: true
 
 **예시)**
 
-![ERD Example](http://dudgns0507.github.io/assets/image/erd.png)
+![ERD Example]({{ site.url }}/img/erd.jpg)
