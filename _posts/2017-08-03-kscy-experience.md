@@ -2,7 +2,7 @@
 layout: post
 title: 제 8회 KSCY 운영진으로 참가
 excerpt: "Participated as the 8th KSCY competition staff"
-categories: [Review]
+categories: [Activity]
 comments: true
 ---
 
